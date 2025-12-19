@@ -5,4 +5,4 @@
 4. Used different types of customized visualization (Bar chart, pie chart, donut chart, clustered bar chart, map, slicers, etc)
 
 Screenshots / Demos 
-Example: 
+Example: (Dashboard Preview) https://github.com/Code-with-Litish/Madhav-ECommerce-Sales-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png
